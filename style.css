@@ -7,12 +7,8 @@
 
 header
 {
-    background-image:url("skyline.jpg") ;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+    height: 100;
 }
-
 
 
 .main-nav
@@ -59,9 +55,9 @@ body
 
 .hero
 {
-    position: absolute;
+    position: center;
     width: 1500px;
-    margin-left: 0px;
+    margin-left: 10px;
     margin-top: 0px;
 }
 h1
@@ -70,10 +66,5 @@ h1
     text-transform: uppercase;
     font-size: 70px;
     text-align: center;
-    margin-top: 275px;
+    margin-top: 50px;
 }
-
-.hero
-{
-
-}p
